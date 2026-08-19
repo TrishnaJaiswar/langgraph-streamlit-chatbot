@@ -33,3 +33,12 @@ The user enters a message in Streamlit, which is passed to the LangGraph workflo
 ## 📌 Note
 
 This is a **learning project**, created to understand the fundamentals of connecting **LangGraph agents/workflows with a frontend UI**. It is intentionally simple and serves as a foundation for building more advanced agentic applications.
+
+
+
+## Demo
+
+Here is a screenshot of the chatbot running with LangGraph and Streamlit:
+
+<img width="1522" height="819" alt="Screenshot 2026-08-19 234157" src="https://github.com/user-attachments/assets/7f733e78-af22-405e-b2ba-9534c9f22a34" />
+
